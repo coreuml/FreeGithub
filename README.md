@@ -6,23 +6,23 @@
 ```base
 #Github Host Start
 github.githubassets.com 
-camo.githubusercontent.com 
+camo.githubusercontent.com 185.199.108.133
 github.map.fastly.net 151.101.1.6
 github.global.ssl.fastly.net 151.101.1.6
 github.com 140.82.112.4
 api.github.com 140.82.112.4
 raw.githubusercontent.com 
 favicons.githubusercontent.com 
-avatars5.githubusercontent.com 
+avatars5.githubusercontent.com 185.199.108.133
 avatars4.githubusercontent.com 
-avatars3.githubusercontent.com 
+avatars3.githubusercontent.com 185.199.108.133
 avatars2.githubusercontent.com 
 avatars1.githubusercontent.com 
-avatars0.githubusercontent.com 
+avatars0.githubusercontent.com 185.199.108.133
 # Github Host End
 ```
 
-更新时间：2023-06-26 13:36:52
+更新时间：2023-06-28 13:36:14
 
 ## 修改本机的hosts文件
 ### 存放位置
