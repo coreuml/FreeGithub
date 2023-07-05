@@ -16,13 +16,13 @@ favicons.githubusercontent.com
 avatars5.githubusercontent.com 
 avatars4.githubusercontent.com 
 avatars3.githubusercontent.com 
-avatars2.githubusercontent.com 185.199.108.133
-avatars1.githubusercontent.com 185.199.108.133
+avatars2.githubusercontent.com 
+avatars1.githubusercontent.com 
 avatars0.githubusercontent.com 
 # Github Host End
 ```
 
-更新时间：2023-07-03 13:35:27
+更新时间：2023-07-05 13:37:23
 
 ## 修改本机的hosts文件
 ### 存放位置
