@@ -5,7 +5,7 @@
 ## hosts列表
 ```base
 #Github Host Start
-github.githubassets.com 192.168.1.20
+github.githubassets.com 
 camo.githubusercontent.com 
 github.map.fastly.net 151.101.1.6
 github.global.ssl.fastly.net 151.101.1.6
@@ -22,7 +22,7 @@ avatars0.githubusercontent.com
 # Github Host End
 ```
 
-更新时间：2023-10-11 13:33:57
+更新时间：2023-10-16 13:33:55
 
 ## 修改本机的hosts文件
 ### 存放位置
